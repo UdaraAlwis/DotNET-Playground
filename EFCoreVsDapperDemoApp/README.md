@@ -22,4 +22,11 @@ Nugets for Dapper based implementation:
 
 Oh also, I've used ```Bogus``` library for generating fake data!
 
+// NOTES:
+// Dapper is good for executing hand written Queries
+// Less code for dealing with data
+// for JOIN statements you need to create custom models with the selected fields
+// EF allows you do awesome advanced stuff with LINQ queries
+// Got features such as Lazy loading for performance boost
+
 Happy coding yol! ;) 
